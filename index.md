@@ -39,6 +39,21 @@
 
 #### 2.确定主题
 - [2020参赛获奖组作品主题参考](https://www.piesat.cn/ch/ds_worksShow.html "参考")
+- 全国植被指数计算
+- 城市建设用地情况分析
+- 水域蓝藻密度分析
+- 水体浑浊度计算
+-  [链接](https://engine.piesat.cn/engine-studio/tutorials "应用案例")
+
+#### 3.人员分工
+----
+
+#### 4.KPI
+
+
+
+
+
 
 
 
