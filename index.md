@@ -31,6 +31,18 @@
 
 ### 组内会议议程：待定
 
+#### 1.PIE-Engine开发介绍
+- ![云开发项目要求](https://user-images.githubusercontent.com/68385986/119262154-cd9a4100-bc0c-11eb-9aba-02b30877a77b.png)
+- [Python简明教程](https://engine.piesat.cn/engine-studio/tutorials "教程")
+- PIE-Engine（基本操作+应用案例介绍）[百度云链接](https://pan.baidu.com/s/1p0SytNoaSWQN_mhbZ6OeOQ "链接")提取码：nfwl 
+- 补充
+
+#### 2.确定主题
+- [2020参赛获奖组作品主题参考](https://www.piesat.cn/ch/ds_worksShow.html "参考")
+
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
@@ -45,4 +57,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
